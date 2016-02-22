@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ImgComposition</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="title_activity_gesture">GestureActivity</string>
+    <string name="title_activity_gesture2">Gesture2Activity</string>
+    <string name="title_activity_camera_pic">CameraPicActivity</string>
+    <string name="title_activity_photo_filter">PhotoFilter</string>
+</resources>
